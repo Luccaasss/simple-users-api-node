@@ -1,0 +1,25 @@
+{
+  "name": "simple-users-api-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luccaasss/simple-users-api-node.git"
+  },
+  "author": "Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luccaasss/simple-users-api-node/issues"
+  },
+  "homepage": "https://github.com/Luccaasss/simple-users-api-node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
